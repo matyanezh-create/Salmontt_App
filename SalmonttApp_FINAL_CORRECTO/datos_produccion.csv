@@ -1,0 +1,5 @@
+id;centro;especie;kilos;fecha;estado
+1;Centro Pto Montt;Atlantico;1200.5;2024-01-10;EN_PROCESO
+2;Centro Chiloé;Coho;900.0;2024-01-12;ENVIADO
+3;Centro Aysén;Atlantico;1500.0;2024-02-01;EN_PROCESO
+4;Centro Pto Montt;Coho;800.0;2024-02-10;ENVIADO
